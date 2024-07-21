@@ -30,7 +30,7 @@ API builder https://platform.mindee.com/api-builder
 
 https://developers.mindee.com/docs/python-invoice-ocr
 
-@author: Data4Every1
+@author: josesan77
 Created on Sat Dec 2 11:58:18 2023
 """
 

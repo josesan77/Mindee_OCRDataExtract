@@ -25,7 +25,7 @@ Pandas module: https://pandas.pydata.org/docs/index.html
 Test case files: not available due to confidentiality of the content of the pdf files
 
 Created on Mon Dec 11 15:50:26 2023
-@author: Data4Every1
+@author: josesan77
 
 install package: 
 pip install mindee
