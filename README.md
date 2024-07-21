@@ -1,11 +1,11 @@
-# Mindee_OCRDataExtract
+# Mindee OCR Data Extraction
 Python3 code samples for Mindee AI based OCR (API) services to extract data from pdf files 
 
 PDF/image scraping/data extraction using AI based services of Mindee through API.
 API services require a profile (user account, including username and API key).
 Pricing: free below a certain amount of usage per month, see Mindee website for details!
 
-**1) Simple code API usage: mindee_invoice.py **
+**1) Simple code API usage: mindee_invoice.py**
 Using the "off-the-shelf" invoice scraping API of Mindee, a simple python code is presented. This is a good start to use Mindee services. Details are given in the code or a short description here: https://d4e1.blogspot.com/2023/12/mindee-simple-invoice-data-extractor.html 
 
 **2) A customized model based API: mindee_CADread_cycle.py** was trained on approximately 70 PDF to get better results on finding the spot and extracting the text precisely to be acceptable. Precision could be further increased by adding new documents for training. The next remarkable quality step would have required some hundreds of new files.
